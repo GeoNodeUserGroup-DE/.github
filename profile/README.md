@@ -11,7 +11,7 @@ as the main communication tool:
 
 - We have a classic mailing list: fdi-list@52north.org
   - You can subscribe to the list here: https://list.52north.org/mailman/listinfo/fdi-list
-- Slack Channel exists here: https://geonode-deployment-de.slack.com (ASAIK an invitation is necessary)
+- Slack Channel exists here: https://geonode-deployment-de.slack.com (invitation is necessary)
 - Via GitHub platform
 
 ## [User Group Activities](https://github.com/orgs/GeoNodeUserGroup-DE/projects/1/views/1)
@@ -28,11 +28,11 @@ as the main communication tool:
 - A click on a card will let you **see the discussion** and **write comments**.
   
 - **Add a new Issue** from "Add item" at the bottom of the columns:
-  ![add item](https://github.com/GeoNodeUserGroup-DE/.github-private/raw/main/profile/add_issue.png)  
+  ![add item](./add_issue.png)  
 
   Initially the new card will be a "Draft". Then you can convert it to an Issue
   (and assign to a repository) by clicking the top-right triple dots of the card.  
-  ![convert from draft](https://github.com/GeoNodeUserGroup-DE/.github-private/raw/main/profile//convert_draft.png)
+  ![convert from draft](./convert_draft.png)
   
   Please provide a short description for new Issues in the appropriate field.
 
