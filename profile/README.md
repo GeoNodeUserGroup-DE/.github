@@ -28,10 +28,12 @@ as the main communication tool:
 - A click on a card will let you **see the discussion** and **write comments**.
   
 - **Add a new Issue** from "Add item" at the bottom of the columns:
+
   ![add item](./add_issue.png)  
 
   Initially the new card will be a "Draft". Then you can convert it to an Issue
   (and assign to a repository) by clicking the top-right triple dots of the card.  
+
   ![convert from draft](./convert_draft.png)
   
   Please provide a short description for new Issues in the appropriate field.
