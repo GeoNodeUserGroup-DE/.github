@@ -18,7 +18,7 @@ as the main communication tool:
 
 ---
 
-This is the member view of this welcome text.
-You can switch between [public view](https://github.com/GeoNodeUserGroup-DE?view_as=public) and [member view](https://github.com/GeoNodeUserGroup-DE?view_as=member) on the right:
+This is the public view of this welcome text.
+If you are a member you can switch between [public view](https://github.com/GeoNodeUserGroup-DE?view_as=public) and [member view](https://github.com/GeoNodeUserGroup-DE?view_as=member). See also the dropdown box on the right (for members):
 
 ![Switching views](./switch-view.png)
