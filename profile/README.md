@@ -9,11 +9,11 @@ as the main communication tool:
 
 ## :left_speech_bubble: Get in touch
 
-- Via GitHub platform: 
-  - Issues on the provided repositories
-  - [Activity Board](https://github.com/orgs/GeoNodeUserGroup-DE/projects/1/views/1)
 - We have a classic mailing list: geonode-usergroup-de@listserv.dfn.de
   - You can subscribe to the list here: https://www.listserv.dfn.de/sympa/info/geonode-usergroup-de
+- Via GitHub platform (for more technincal aspects): 
+  - Issues on the provided repositories
+  - [Activity Board](https://github.com/orgs/GeoNodeUserGroup-DE/projects/1/views/1)
 - The (still existing) Slack Channel is deprecated for the time being, so do not expect too much activity on it
 - we are also active on conferences (e.g. regularly on FOSSGIS and FOSS4G Europe)
 
